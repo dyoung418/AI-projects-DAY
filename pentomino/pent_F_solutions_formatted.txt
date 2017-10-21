@@ -1,0 +1,212 @@
+Found 125 solutions in 80.607325872 seconds
+saved solutions to pent_F_solutions.txt
+
+   TIIIII     LLNTPP     IIIIIP     IIIIIT     YIIIII     VVVTPP 
+   TTTPPP     LNNTPP     YLLNPP     VVVTTT     YTTTPP     VZZTPP 
+   TNNNPP     LNTTTP     YLNNPP     VLLLLT     YYTPPP     VZTTTP 
+VVVNNY     UUXLNI     UUYYLN     UUXVLW     UUXYNT     UUXZZN    
+VLLLLY     UXXXYI     UWWYLN     UXXXWW     UXXXNN     UXXXNN    
+VLWWYY     UUXYYI     UUWWZZ     UUXWWY     UUXZZN     UUXYNL    
+   WWY        VYI        WZV        PYY        VZN        YNL    
+   UWU        VYI        ZZV        PPY        VZZ        YYL    
+   UUU        VVV        VVV        PPY        VVV        YLL    
+
+   TIIIII     IIIIIT     IIIIIP     LIIIII     IIIIIV     VVVTPP 
+   TTTPPP     VVVTTT     YVVVPP     LLLLPP     WYYYYV     VZZTPP 
+   TVVVPP     VYYYYT     YVZZPP     TTTPPP     WWYVVV     VZTTTP 
+LLLLVY     UUXVNY     UUYYVZ     VVVZTY     PPTZWW     UUXZZN    
+LNNNVY     UXXXNN     UWWYZZ     VZZZTY     PPTZZZ     UXXXNN    
+NNWWYY     UUXLLN     UUWWNL     VZWWYY     PTTTXZ     UUXLNY    
+   WWY        LPN        WNL        WWY        XXX        LNY    
+   UWU        LPP        NNL        UWU        UXU        LYY    
+   UUU        LPP        NLL        UUU        UUU        LLY    
+
+   YYYYUU     YLLLLV     NNNVVV     TIIIII     YNNVVV     VVVTPP 
+   WYPPPU     YTTTLV     ZZNNLV     TTTPPP     YYNNNV     VZZTPP 
+   WWPPUU     YYTVVV     ZLLLLV     TWLLPP     YLLLLV     VZTTTP 
+TNNNWW     UUXYNT     UUZZYI     VVVWWL     UUXYLW     UUXZZY    
+TTTNNI     UXXXNI     UWWYYI     VZWWYL     UXXXWW     UXXXYY    
+TVVVLI     UUXNNI     UUWWYI     VZZZYL     UUXWWT     UUXLNY    
+   VLI        NPI        WYI        ZYY        TTT        LNY    
+   VLI        PPI        PPI        UYU        PPT        LNN    
+   LLI        PPI        PPP        UUU        PPP        LLN    
+
+   YYYYUU     LLYYYY     NNNVVV     TIIIII     NNLLLL     PPZVVV 
+   PPYWWU     VLIYPP     LLNNZV     TTTPPP     WNNNYL     PPZZZV 
+   PPWWUU     VLIPPP     WLZZZV     TWZZPP     WWYYYY     YPLLZV 
+TNNNPW     TVVVLI     UUWWLZ     VVVWWZ     VVVZWW     TYYYYL    
+TTTNNI     TTTNNI     UWWXLI     VLWWZZ     VZZZUU     TTTNNL    
+TVVVLI     TNNNXI     UUXXXI     VLLLLY     VZTTTU     TNNNXL    
+   VLI        XXX        XPI        UUY        TUU        XXX    
+   VLI        UXU        PPI        UYY        TPP        UXU    
+   LLI        UUU        PPI        UUY        PPP        UUU    
+
+   PPPUUU     IIIIIV     IIIIIP     IIIIIP     YYYYNN     YYYYZV 
+   WPPUYU     LYYYYV     YYYYPP     LLLLPP     WYNNNL     LYZZZV 
+   WWYYYY     LNYVVV     XYZZPP     TTTLPP     WWLLLL     LNZVVV 
+TNNNWW     PPTLNN     UUXXXZ     VVVZTY     VVVZWW     PPTLNN    
+TTTNNI     PPTLLN     UWWXZZ     VZZZTY     VZZZUU     PPTLLN    
+TVVVLI     PTTTXN     UUWWNL     VZWWYY     VZTTTU     PTTTXN    
+   VLI        XXX        WNL        WWY        TUU        XXX    
+   VLI        UXU        NNL        UWU        TPP        UXU    
+   LLI        UUU        NLL        UUU        PPP        UUU    
+
+   IIIIIT     ILLLLV     LLNNNP     IIIIIT     LLLLPP     YNNVVV 
+   VVVTTT     ITTTLV     LNNZPP     VVVTTT     LNNNPP     YYNNNV 
+   VLLLLT     INTVVV     LZZZPP     VLLLLT     TTTNNP     YLLLLV 
+PPPVLW     PPPINT     UUXLZI     UUXVLW     VVVZTY     PZZYLT    
+PPNNWW     PPYINN     UXXXYI     UXXXWW     VZZZTY     PPZTTT    
+NNNWWY     YYYYXN     UUXYYI     UUXWWZ     VZWWYY     PPZZXT    
+   UUY        XXX        VYI        ZZZ        WWY        XXX    
+   UYY        UXU        VYI        ZPP        UWU        UXU    
+   UUY        UUU        VVV        PPP        UUU        UUU    
+
+   IIIIIT     TIIIII     LLNZZP     TTTXUU     WWTTTP     NLLLLV 
+   VVVTTT     TTTPPP     LNNZPP     YTXXXU     LWWTPP     NTTTLV 
+   VLLLLT     TLZZPP     LNZZPP     YTIXUU     LNWTPP     NNTVVV 
+NNNVLW     VLLLLZ     UUXLNI     PZZYYI     VVVLNN     PPPZNT    
+PPNNWW     VNNNZZ     UXXXYI     PPZYLI     VZLLYN     PPYZZZ    
+PPPWWY     VVVNNY     UUXYYI     PPZZLI     VZZZYN     YYYYXZ    
+   UUY        UUY        VYI        VLI        ZYY        XXX    
+   UYY        UYY        VYI        VLL        UYU        UXU    
+   UUY        UUY        VVV        VVV        UUU        UUU    
+
+   IIIIIT     IIIIIP     IIIIIP     LLLLZV     WWTTTP     TTTXUU 
+   VVVTTT     LLLLPP     LLLLPP     LYZZZV     LWWTPP     LTXXXU 
+   VLLLLT     LTTTPP     LNNNPP     WYZVVV     LYWTPP     LTNXUU 
+PNNVLY     YYYYNT     UUXNNY     UUWWYY     VVVLYY     VVVLNN    
+PPNNNY     UYUNNT     UXXXYY     UWWXYI     VZLLYN     VZLLNY    
+PPWWYY     UUUNZZ     UUXZZY     UUXXXI     VZZZYN     VZZZNY    
+   WWY        NZV        VZY        XPI        ZNN        ZYY    
+   UWU        ZZV        VZZ        PPI        UNU        PPY    
+   UUU        VVV        VVV        PPI        UUU        PPP    
+
+   IIIIIT     LNNNUU     IIIIIP     IIIIIV     TNNNUU     TTTXUU 
+   PNNTTT     LIYNNU     VVVZPP     WYYYYV     TTTNNU     LTXXXU 
+   PPNNNT     LIYYUU     VZZZPP     WWYVVV     TWZZUU     LTYXUU 
+VVVPPY     VZLLIY     UUXVZN     PPPZWW     VVVWWZ     VVVLYY    
+VLLLLY     VZZZIY     UXXXNN     LPPZZZ     VLWWZZ     VZLLNY    
+VLWWYY     VVVZIT     UUXYNL     LLLLXZ     VLLLLY     VZZZNY    
+   WWY        TTT        YNL        XXX        PYY        ZNN    
+   UWU        PPT        YYL        UXU        PPY        PPN    
+   UUU        PPP        YLL        UUU        PPY        PPP    
+
+   IIIIIT     LLLLUU     IIIIIP     IIIIIT     YYYYUU     VVVXUU 
+   WNNTTT     LYYYYU     VVVZPP     WNNTTT     NLYWWU     VNXXXU 
+   WWNNNT     TTTYUU     VZZZPP     WWNNNT     NLWWUU     VNNXUU 
+YYYYWW     PPZZTI     UUXVZN     UUUZWW     PPNNLW     LLLLTN    
+UYULPP     PPZNTI     UXXXNN     UYUZZZ     PPNTLL     LYTTTN    
+UUULPP     PZZNNI     UUXLNY     YYYYPZ     PTTTZZ     YYYYTZ    
+   LPV        VNI        LNY        PPV        TZV        ZZZ    
+   LLV        VNI        LYY        PPV        ZZV        ZPP    
+   VVV        VVV        LLY        VVV        VVV        PPP    
+
+   IIIIIT     LLNUUU     IIIIIP     IIIIIT     YYYYZV     VVVXUU 
+   WNNTTT     LNNUYU     VVVZPP     WNNTTT     WYZZZV     VNXXXU 
+   WWNNNT     LNYYYY     VZZZPP     WWNNNT     WWZVVV     VNNXUU 
+YYYYWW     PPZLNI     UUXVZY     UUUZWW     LLLLWW     TLLLLN    
+UYUVVV     PPZZZI     UXXXYY     UYUZZZ     LNNNUU     TTTYLN    
+UUUVLL     PVVVZI     UUXLNY     YYYYPZ     NNTTTU     TYYYYZ    
+   VPL        VTI        LNY        VPP        TUU        ZZZ    
+   PPL        VTI        LNN        VPP        TPP        ZPP    
+   PPL        TTT        LLN        VVV        PPP        PPP    
+
+   IIIIIT     IIIIIT     IIIIIV     IIIIIT     LLZVVV     VVVXUU 
+   WNNTTT     YLLTTT     LYYYYV     WNNTTT     LTZZZV     VNXXXU 
+   WWNNNT     YLVVVT     LNYVVV     WWNNNT     LTTTZV     VNNXUU 
+YYYYWW     UUYYLV     PZZLNN     VVVYWW     PPPLTW     TYYYYN    
+UYUPPL     UNNYLV     PPZLLN     VZYYYY     PPNNWW     TTTYLN    
+UUUPPL     UUNNNZ     PPZZXN     VZZZPP     NNNWWY     TLLLLZ    
+   VPL        ZZZ        XXX        ZPP        UUY        ZZZ    
+   VLL        ZPP        UXU        UPU        UYY        ZPP    
+   VVV        PPP        UUU        UUU        UUY        PPP    
+
+   IIIIIT     LLLLZV     NNLLLL     IIIIIT     LLZVVV     VVVXUU 
+   WNNTTT     LNZZZV     WNNNYL     YNNTTT     LTZZZV     VNXXXU 
+   WWNNNT     TNZVVV     WWYYYY     YPNNNT     LTTTZV     VNNXUU 
+YYYYWW     PPPTNN     VVVZWW     UUYYPP     NNNLTW     YYYYTN    
+UYUVVV     PPTTTN     VZZZTI     UWWYPP     PPNNWW     LYTTTN    
+UUULLV     IIIIIY     VZTTTI     UUWWZZ     PPPWWY     LLLLTZ    
+   LPV        UUY        PTI        WZV        UUY        ZZZ    
+   LPP        UYY        PPI        ZZV        UYY        ZPP    
+   LPP        UUY        PPI        VVV        UUY        PPP    
+
+   IIIIIV     LLLLZV     YYYYNN     IIIIIT     LLZVVV     NNNVVV 
+   WYYYYV     LPZZZV     WYNNNL     WNNTTT     LTZZZV     LLNNZV 
+   WWYVVV     PPZVVV     WWLLLL     WWNNNT     LTTTZV     WLZZZV 
+LLLLWW     UUXPPI     VVVZWW     VVVZWW     PNNLTY     UUWWLZ    
+LNNNUU     UXXXNI     VZZZTI     VPPZZZ     PPNNNY     UWWXLY    
+NNTTTU     UUXNNI     VZTTTI     VPPPXZ     PPWWYY     UUXXXY    
+   TUU        NTI        PTI        XXX        WWY        XYY    
+   TPP        NTI        PPI        UXU        UWU        PPY    
+   PPP        TTT        PPI        UUU        UUU        PPP    
+
+   PPYYYY     VVVPPP     IIIIIT     IIIIIT     NNYYYY     YNNVVV 
+   PPPUYU     VZZPPL     WNNTTT     WNNTTT     WNNNYL     YYNNNV 
+   NNWUUU     VZLLLL     WWNNNT     WWNNNT     WWLLLL     YLLLLV 
+TNNNWW     UUXZZI     PPPYWW     PPPZWW     VVVZWW     UUXYLW    
+TTTWWI     UXXXNI     PPYYYY     PPYZZZ     VZZZUU     UXXXWW    
+TVVVLI     UUXNNI     LLLLZZ     YYYYXZ     VZTTTU     UUXWWZ    
+   VLI        NTI        LZV        XXX        TUU        ZZZ    
+   VLI        NTI        ZZV        UXU        TPP        ZPP    
+   LLI        TTT        VVV        UUU        PPP        PPP    
+
+   PPPXUU     LLZZPP     IIIIIT     YIIIII     WWYYYY     NNLLLL 
+   PPXXXU     VLIZPP     WNNTTT     YYXPPP     NWWUYU     WNNNYL 
+   NNWXUU     VLIZZP     WWNNNT     YXXXPP     NNWUUU     WWYYYY 
+TNNNWW     TVVVLI     VVVYWW     VVVYTX     VVVZNL     VVVZWW    
+TTTWWI     TTTNNI     VLYYYY     VZTTTN     VZZZNL     VPPZZZ    
+TVVVLI     TNNNXI     VLLLLZ     VZZZTN     VZTTTL     VPPPXZ    
+   VLI        XXX        ZZZ        ZNN        TLL        XXX    
+   VLI        UXU        ZPP        UNU        TPP        UXU    
+   LLI        UUU        PPP        UUU        PPP        UUU    
+
+   TTTXUU     ILLLLV     IIIIIT     YNNNUU     LNYYYY     YYYYNN 
+   NTXXXU     ITTTLV     WNNTTT     YYXNNU     LNNYPP     WYNNNL 
+   NTWXUU     INTVVV     WWNNNT     YXXXUU     LTNPPP     WWLLLL 
+PPNNWW     PZZINT     VVVYWW     VVVYTX     UULLTN     VVVZWW    
+PPNWWI     PPZINN     VZYYYY     VZTTTI     UWWTTT     VPPZZZ    
+PVVVLI     PPZZXN     VZZZLL     VZZZTI     UUWWZZ     VPPPXZ    
+   VLI        XXX        ZPL        ZPI        WZV        XXX    
+   VLI        UXU        PPL        PPI        ZZV        UXU    
+   LLI        UUU        PPL        PPI        VVV        UUU    
+
+   TTTXUU     LIIIII     YYYYZV     YYYYZV     NNLLLL     NNYYYY 
+   VTXXXU     LTTTPP     WYZZZV     PYZZZV     WNNNYL     WNNNYL 
+   VTWXUU     LNTPPP     WWZVVV     PPZVVV     WWYYYY     WWLLLL 
+PVVVWW     VZLLNT     TNNNWW     UUXPPI     PPTZWW     VVVZWW    
+PPNWWI     VZZZNN     TTTNNI     UXXXNI     PPTZZZ     VPPZZZ    
+PPNNLI     VVVZXN     TLLLLI     UUXNNI     PTTTXZ     VPPPXZ    
+   NLI        XXX        PLI        NTI        XXX        XXX    
+   NLI        UXU        PPI        NTI        UXU        UXU    
+   LLI        UUU        PPI        TTT        UUU        UUU    
+
+   IIIIIP     TTTXUU     YYYYZV     VVVPPP     YYYYNN     LLZVVV 
+   LLLLPP     LTXXXU     WYZZZV     VZZYPP     WYNNNL     LTZZZV 
+   LTTTPP     LTNXUU     WWZVVV     VZYYYY     WWLLLL     LTTTZV 
+VVVZNT     VVVLNN     LLLLWW     UUXZZI     PPTZWW     UUXLTW    
+VZZZNT     VZLLNI     LNNNTI     UXXXNI     PPTZZZ     UXXXWW    
+VZWWNN     VZZZNI     NNTTTI     UUXNNI     PTTTXZ     UUXWWY    
+   WWN        ZPI        PTI        NTI        XXX        PYY    
+   UWU        PPI        PPI        NTI        UXU        PPY    
+   UUU        PPI        PPI        TTT        UUU        PPY    
+
+   IIIIIT     TTTXUU     NNYYYY     IIIIIT     NNYYYY     YLLLLV 
+   ZZYTTT     VTXXXU     WNNNYL     PNNTTT     WNNNYL     YYWWLV 
+   ZYYYYT     VTIXUU     WWLLLL     PPNNNT     WWLLLL     YWWVVV 
+UUZZPP     PVVVZI     VVVZWW     UUXPPY     PPTZWW     PZZYWT    
+UWWPPP     PPZZZI     VZZZTI     UXXXYY     PPTZZZ     PPZTTT    
+UUWWNL     PPZLNI     VZTTTI     UUXZZY     PTTTXZ     PPZZXT    
+   WNL        LNI        PTI        VZY        XXX        XXX    
+   NNL        LNN        PPI        VZZ        UXU        UXU    
+   NLL        LLN        PPI        VVV        UUU        UUU    
+
+   IIIIIT     IIIIIT     YLLLLV     TIIIII     LLNTPP 
+   WNNTTT     ZZYTTT     YYWWLV     TTTPPP     LNNTPP 
+   WWNNNT     ZYYYYT     YWWVVV     TNNNPP     LNTTTP 
+PPPZWW     NNZZPP     UUXYWI     UUXNNY     UUXLNY    
+LPPZZZ     LNNNPP     UXXXNI     UXXXYY     UXXXYY    
+LLLLXZ     LLLLXP     UUXNNI     UUXZZY     UUXZZY    
+   XXX        XXX        NTI        VZY        VZY    
+   UXU        UXU        NTI        VZZ        VZZ    
+   UUU        UUU        TTT        VVV        VVV    

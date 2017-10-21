@@ -1,0 +1,961 @@
+   ILL         
+   ILV         
+   ILV         
+UUUILVVVT      
+UYUINNTTT      
+YYYYFNNNT      
+   FFF         
+   PPF         
+   PPP         #   ILL         
+   ILV         
+   ILV         
+UUUILVVVT      
+UYUINNTTT      
+YYYYFNNNT      
+   FFF         
+   FPP         
+   PPP         #   LLI         
+   VLI         
+   VLI         
+TVVVLIUUU      
+TTTNNIUYU      
+TNNNFYYYY      
+   FFF         
+   PPF         
+   PPP         #   LLI         
+   VLI         
+   VLI         
+TVVVLIUUU      
+TTTNNIUYU      
+TNNNFYYYY      
+   FFF         
+   FPP         
+   PPP         #   PPP         
+   FPP         
+   FFF         
+TNNNFYYYY      
+TTTNNIUYU      
+TVVVLIUUU      
+   VLI         
+   VLI         
+   LLI         #   PPP         
+   FPP         
+   FFF         
+YYYYFNNNT      
+UYUINNTTT      
+UUUILVVVT      
+   ILV         
+   ILV         
+   ILL         #   PPP         
+   PPF         
+   FFF         
+TNNNFYYYY      
+TTTNNIUYU      
+TVVVLIUUU      
+   VLI         
+   VLI         
+   LLI         #   PPP         
+   PPF         
+   FFF         
+YYYYFNNNT      
+UYUINNTTT      
+UUUILVVVT      
+   ILV         
+   ILV         
+   ILL         #   UUY         
+   UYY         
+   UUY         
+IIIIIYFFP      
+LLLLNFFPP      
+LVVVNNFPP      
+   VTN         
+   VTN         
+   TTT         #   UUY         
+   UYY         
+   UUY         
+IIIIIYFPP      
+LLLLNFFPP      
+LVVVNNFFP      
+   VTN         
+   VTN         
+   TTT         #   TTT         
+   NTV         
+   NTV         
+PFFNNVVVL      
+PPFFNLLLL      
+PPFYIIIII      
+   YUU         
+   YYU         
+   YUU         #   TTT         
+   NTV         
+   NTV         
+PPFNNVVVL      
+PPFFNLLLL      
+PFFYIIIII      
+   YUU         
+   YYU         
+   YUU         #   TTT         
+   VTN         
+   VTN         
+LVVVNNFFP      
+LLLLNFFPP      
+IIIIIYFPP      
+   UUY         
+   UYY         
+   UUY         #   TTT         
+   VTN         
+   VTN         
+LVVVNNFPP      
+LLLLNFFPP      
+IIIIIYFFP      
+   UUY         
+   UYY         
+   UUY         #   YUU         
+   YYU         
+   YUU         
+PFFYIIIII      
+PPFFNLLLL      
+PPFNNVVVL      
+   NTV         
+   NTV         
+   TTT         #   YUU         
+   YYU         
+   YUU         
+PPFYIIIII      
+PPFFNLLLL      
+PFFNNVVVL      
+   NTV         
+   NTV         
+   TTT         #   LLN         
+   LNN         
+   LNF         
+VVVLNFFFP      
+VIIIIIFPP      
+VYYYYWWPP      
+   YWW         
+   UWU         
+   UUU         #   LLN         
+   LNN         
+   LNW         
+VVVLNWWUU      
+VIIIIIWWU      
+VYYYYFFUU      
+   YFF         
+   PPF         
+   PPP         #   NLL         
+   NNL         
+   FNL         
+PFFFNLVVV      
+PPFIIIIIV      
+PPWWYYYYV      
+   WWY         
+   UWU         
+   UUU         #   NLL         
+   NNL         
+   WNL         
+UUWWNLVVV      
+UWWIIIIIV      
+UUFFYYYYV      
+   FFY         
+   FPP         
+   PPP         #   PPP         
+   FPP         
+   FFW         
+NNFFIWWUU      
+LNNNIYWWU      
+LLLLIYYUU      
+   VIY         
+   VIY         
+   VVV         #   PPP         
+   FPP         
+   FFY         
+UUFFYYYYV      
+UWWIIIIIV      
+UUWWNLVVV      
+   WNL         
+   NNL         
+   NLL         #   PPP         
+   PPF         
+   WFF         
+UUWWIFFNN      
+UWWYINNNL      
+UUYYILLLL      
+   YIV         
+   YIV         
+   VVV         #   PPP         
+   PPF         
+   YFF         
+VYYYYFFUU      
+VIIIIIWWU      
+VVVLNWWUU      
+   LNW         
+   LNN         
+   LLN         #   UUU         
+   UWU         
+   WWF         
+NNWWIFFFP      
+LNNNIYFPP      
+LLLLIYYPP      
+   VIY         
+   VIY         
+   VVV         #   UUU         
+   UWU         
+   WWY         
+PPWWYYYYV      
+PPFIIIIIV      
+PFFFNLVVV      
+   FNL         
+   NNL         
+   NLL         #   UUU         
+   UWU         
+   FWW         
+PFFFIWWNN      
+PPFYINNNL      
+PPYYILLLL      
+   YIV         
+   YIV         
+   VVV         #   UUU         
+   UWU         
+   YWW         
+VYYYYWWPP      
+VIIIIIFPP      
+VVVLNFFFP      
+   LNF         
+   LNN         
+   LLN         #   VVV         
+   VIY         
+   VIY         
+LLLLIYYPP      
+LNNNIYFPP      
+NNWWIFFFP      
+   WWF         
+   UWU         
+   UUU         #   VVV         
+   VIY         
+   VIY         
+LLLLIYYUU      
+LNNNIYWWU      
+NNFFIWWUU      
+   FFW         
+   FPP         
+   PPP         #   VVV         
+   YIV         
+   YIV         
+PPYYILLLL      
+PPFYINNNL      
+PFFFIWWNN      
+   FWW         
+   UWU         
+   UUU         #   VVV         
+   YIV         
+   YIV         
+UUYYILLLL      
+UWWYINNNL      
+UUWWIFFNN      
+   WFF         
+   PPF         
+   PPP         #   PPP         
+   FPP         
+   FFY         
+UUFFYYYYT      
+UIIIIITTT      
+UUZZLLLLT      
+   ZLV         
+   ZZV         
+   VVV         #   PPP         
+   PPF         
+   YFF         
+TYYYYFFUU      
+TTTIIIIIU      
+TLLLLZZUU      
+   VLZ         
+   VZZ         
+   VVV         #   UUU         
+   UIU         
+   FIZ         
+PFFFIZZZV      
+PPFYILLZV      
+PPYYILVVV      
+   YTL         
+   YTL         
+   TTT         #   UUU         
+   UIU         
+   ZIF         
+VZZZIFFFP      
+VZLLIYFPP      
+VVVLIYYPP      
+   LTY         
+   LTY         
+   TTT         #   TTT         
+   LTY         
+   LTY         
+VVVLIYYPP      
+VZLLIYFPP      
+VZZZIFFFP      
+   ZIF         
+   UIU         
+   UUU         #   TTT         
+   YTL         
+   YTL         
+PPYYILVVV      
+PPFYILLZV      
+PFFFIZZZV      
+   FIZ         
+   UIU         
+   UUU         #   VVV         
+   VZZ         
+   VLZ         
+TLLLLZZUU      
+TTTIIIIIU      
+TYYYYFFUU      
+   YFF         
+   PPF         
+   PPP         #   VVV         
+   ZZV         
+   ZLV         
+UUZZLLLLT      
+UIIIIITTT      
+UUFFYYYYT      
+   FFY         
+   FPP         
+   PPP         #   LLN         
+   LNN         
+   LNF         
+UUULNFFFP      
+UYUTTTFPP      
+YYYYTZZPP      
+   VTZ         
+   VZZ         
+   VVV         #   LLN         
+   LNN         
+   LNZ         
+PPTLNZZZV      
+PPTYYYYZV      
+PTTTYFVVV      
+   FFF         
+   UFU         
+   UUU         #   LLN         
+   LNN         
+   LNZ         
+UUFLNZZZV      
+UFFYYYYZV      
+UUFFYTVVV      
+   TTT         
+   PPT         
+   PPP         #   NLL         
+   NNL         
+   FNL         
+PFFFNLUUU      
+PPFTTTUYU      
+PPZZTYYYY      
+   ZTV         
+   ZZV         
+   VVV         #   NLL         
+   NNL         
+   ZNL         
+VZZZNLTPP      
+VZYYYYTPP      
+VVVFYTTTP      
+   FFF         
+   UFU         
+   UUU         #   NLL         
+   NNL         
+   ZNL         
+VZZZNLFUU      
+VZYYYYFFU      
+VVVTYFFUU      
+   TTT         
+   TPP         
+   PPP         #   PPP         
+   FPP         
+   FFZ         
+NNFFTZZZV      
+LNNNTTTZV      
+LLLLTYVVV      
+   UUY         
+   UYY         
+   UUY         #   PPP         
+   NPP         
+   NNZ         
+UUFFNZZZV      
+UFFYNLLZV      
+UUFYYLVVV      
+   YTL         
+   YTL         
+   TTT         #   PPP         
+   TPP         
+   TTT         
+UUFTYLLLL      
+UFFYYNNNL      
+UUFFYZZNN      
+   VYZ         
+   VZZ         
+   VVV         #   PPP         
+   TPP         
+   TTT         
+VVVTYFFUU      
+VZYYYYFFU      
+VZZZNLFUU      
+   ZNL         
+   NNL         
+   NLL         #   PPP         
+   PPF         
+   ZFF         
+VZZZTFFNN      
+VZTTTNNNL      
+VVVYTLLLL      
+   YUU         
+   YYU         
+   YUU         #   PPP         
+   PPN         
+   ZNN         
+VZZZNFFUU      
+VZLLNYFFU      
+VVVLYYFUU      
+   LTY         
+   LTY         
+   TTT         #   PPP         
+   PPT         
+   TTT         
+LLLLYTFUU      
+LNNNYYFFU      
+NNZZYFFUU      
+   ZYV         
+   ZZV         
+   VVV         #   PPP         
+   PPT         
+   TTT         
+UUFFYTVVV      
+UFFYYYYZV      
+UUFLNZZZV      
+   LNZ         
+   LNN         
+   LLN         #   UUY         
+   UYY         
+   UUY         
+LLLLTYVVV      
+LNNNTTTZV      
+NNFFTZZZV      
+   FFZ         
+   FPP         
+   PPP         #   UUU         
+   UFU         
+   FFF         
+PPTFYLLLL      
+PPTYYNNNL      
+PTTTYZZNN      
+   VYZ         
+   VZZ         
+   VVV         #   UUU         
+   UFU         
+   FFF         
+PNNFYYYYT      
+PPNNNYTTT      
+PPZZLLLLT      
+   ZLV         
+   ZZV         
+   VVV         #   UUU         
+   UFU         
+   FFF         
+VVVFYTTTP      
+VZYYYYTPP      
+VZZZNLTPP      
+   ZNL         
+   NNL         
+   NLL         #   UUU         
+   UFU         
+   FFF         
+LLLLYFTPP      
+LNNNYYTPP      
+NNZZYTTTP      
+   ZYV         
+   ZZV         
+   VVV         #   UUU         
+   UFU         
+   FFF         
+TYYYYFNNP      
+TTTYNNNPP      
+TLLLLZZPP      
+   VLZ         
+   VZZ         
+   VVV         #   UUU         
+   UFU         
+   FFF         
+PTTTYFVVV      
+PPTYYYYZV      
+PPTLNZZZV      
+   LNZ         
+   LNN         
+   LLN         #   TTT         
+   LTY         
+   LTY         
+VVVLYYFUU      
+VZLLNYFFU      
+VZZZNFFUU      
+   ZNN         
+   PPN         
+   PPP         #   TTT         
+   YTL         
+   YTL         
+UUFYYLVVV      
+UFFYNLLZV      
+UUFFNZZZV      
+   NNZ         
+   NPP         
+   PPP         #   VVV         
+   VZZ         
+   VYZ         
+UUFFYZZNN      
+UFFYYNNNL      
+UUFTYLLLL      
+   TTT         
+   TPP         
+   PPP         #   VVV         
+   VZZ         
+   VYZ         
+PTTTYZZNN      
+PPTYYNNNL      
+PPTFYLLLL      
+   FFF         
+   UFU         
+   UUU         #   VVV         
+   VZZ         
+   VTZ         
+YYYYTZZPP      
+UYUTTTFPP      
+UUULNFFFP      
+   LNF         
+   LNN         
+   LLN         #   VVV         
+   VZZ         
+   VLZ         
+TLLLLZZPP      
+TTTYNNNPP      
+TYYYYFNNP      
+   FFF         
+   UFU         
+   UUU         #   VVV         
+   ZZV         
+   ZYV         
+NNZZYFFUU      
+LNNNYYFFU      
+LLLLYTFUU      
+   TTT         
+   PPT         
+   PPP         #   VVV         
+   ZZV         
+   ZYV         
+NNZZYTTTP      
+LNNNYYTPP      
+LLLLYFTPP      
+   FFF         
+   UFU         
+   UUU         #   VVV         
+   ZZV         
+   ZTV         
+PPZZTYYYY      
+PPFTTTUYU      
+PFFFNLUUU      
+   FNL         
+   NNL         
+   NLL         #   VVV         
+   ZZV         
+   ZLV         
+PPZZLLLLT      
+PPNNNYTTT      
+PNNFYYYYT      
+   FFF         
+   UFU         
+   UUU         #   YUU         
+   YYU         
+   YUU         
+VVVYTLLLL      
+VZTTTNNNL      
+VZZZTFFNN      
+   ZFF         
+   PPF         
+   PPP         #   LLN         
+   LNN         
+   LNF         
+VVVLNFFFP      
+VZYYYYFPP      
+VZZZYWWPP      
+   ZWW         
+   UWU         
+   UUU         #   LLN         
+   LNN         
+   LNW         
+VVVLNWWUU      
+VZYYYYWWU      
+VZZZYFFUU      
+   ZFF         
+   PPF         
+   PPP         #   NLL         
+   NNL         
+   FNL         
+PFFFNLVVV      
+PPFYYYYZV      
+PPWWYZZZV      
+   WWZ         
+   UWU         
+   UUU         #   NLL         
+   NNL         
+   WNL         
+UUWWNLVVV      
+UWWYYYYZV      
+UUFFYZZZV      
+   FFZ         
+   FPP         
+   PPP         #   PPP         
+   FPP         
+   FFW         
+NNFFYWWUU      
+LNNNYYWWU      
+LLLLYZZUU      
+   VYZ         
+   VZZ         
+   VVV         #   PPP         
+   FPP         
+   FFZ         
+UUFFYZZZV      
+UWWYYYYZV      
+UUWWNLVVV      
+   WNL         
+   NNL         
+   NLL         #   PPP         
+   PPF         
+   WFF         
+UUWWYFFNN      
+UWWYYNNNL      
+UUZZYLLLL      
+   ZYV         
+   ZZV         
+   VVV         #   PPP         
+   PPF         
+   ZFF         
+VZZZYFFUU      
+VZYYYYWWU      
+VVVLNWWUU      
+   LNW         
+   LNN         
+   LLN         #   UUU         
+   UWU         
+   WWF         
+NNWWYFFFP      
+LNNNYYFPP      
+LLLLYZZPP      
+   VYZ         
+   VZZ         
+   VVV         #   UUU         
+   UWU         
+   WWZ         
+PPWWYZZZV      
+PPFYYYYZV      
+PFFFNLVVV      
+   FNL         
+   NNL         
+   NLL         #   UUU         
+   UWU         
+   FWW         
+PFFFYWWNN      
+PPFYYNNNL      
+PPZZYLLLL      
+   ZYV         
+   ZZV         
+   VVV         #   UUU         
+   UWU         
+   ZWW         
+VZZZYWWPP      
+VZYYYYFPP      
+VVVLNFFFP      
+   LNF         
+   LNN         
+   LLN         #   VVV         
+   VZZ         
+   VYZ         
+LLLLYZZPP      
+LNNNYYFPP      
+NNWWYFFFP      
+   WWF         
+   UWU         
+   UUU         #   VVV         
+   VZZ         
+   VYZ         
+LLLLYZZUU      
+LNNNYYWWU      
+NNFFYWWUU      
+   FFW         
+   FPP         
+   PPP         #   VVV         
+   ZZV         
+   ZYV         
+PPZZYLLLL      
+PPFYYNNNL      
+PFFFYWWNN      
+   FWW         
+   UWU         
+   UUU         #   VVV         
+   ZZV         
+   ZYV         
+UUZZYLLLL      
+UWWYYNNNL      
+UUWWYFFNN      
+   WFF         
+   PPF         
+   PPP         #   PPP         
+   FPP         
+   FFF         
+TNNNFZVVV      
+TTTNNZZZV      
+TYYYYWWZV      
+   YWW         
+   UWU         
+   UUU         #   PPP         
+   FPP         
+   FFF         
+VVVZFNNNT      
+VZZZNNTTT      
+VZWWYYYYT      
+   WWY         
+   UWU         
+   UUU         #   PPP         
+   PPF         
+   FFF         
+TNNNFZVVV      
+TTTNNZZZV      
+TYYYYWWZV      
+   YWW         
+   UWU         
+   UUU         #   PPP         
+   PPF         
+   FFF         
+VVVZFNNNT      
+VZZZNNTTT      
+VZWWYYYYT      
+   WWY         
+   UWU         
+   UUU         #   UUU         
+   UWU         
+   WWY         
+VZWWYYYYT      
+VZZZNNTTT      
+VVVZFNNNT      
+   FFF         
+   PPF         
+   PPP         #   UUU         
+   UWU         
+   WWY         
+VZWWYYYYT      
+VZZZNNTTT      
+VVVZFNNNT      
+   FFF         
+   FPP         
+   PPP         #   UUU         
+   UWU         
+   YWW         
+TYYYYWWZV      
+TTTNNZZZV      
+TNNNFZVVV      
+   FFF         
+   PPF         
+   PPP         #   UUU         
+   UWU         
+   YWW         
+TYYYYWWZV      
+TTTNNZZZV      
+TNNNFZVVV      
+   FFF         
+   FPP         
+   PPP         #   TTT         
+   NTY         
+   NTY         
+PFFNNYYUU      
+PPFFNYWWU      
+PPFZZWWUU      
+   VZW         
+   VZZ         
+   VVV         #   TTT         
+   NTY         
+   NTY         
+PPFNNYYUU      
+PPFFNYWWU      
+PFFZZWWUU      
+   VZW         
+   VZZ         
+   VVV         #   TTT         
+   YTN         
+   YTN         
+UUYYNNFFP      
+UWWYNFFPP      
+UUWWZZFPP      
+   WZV         
+   ZZV         
+   VVV         #   TTT         
+   YTN         
+   YTN         
+UUYYNNFPP      
+UWWYNFFPP      
+UUWWZZFFP      
+   WZV         
+   ZZV         
+   VVV         #   VVV         
+   VZZ         
+   VZW         
+PPFZZWWUU      
+PPFFNYWWU      
+PFFNNYYUU      
+   NTY         
+   NTY         
+   TTT         #   VVV         
+   VZZ         
+   VZW         
+PFFZZWWUU      
+PPFFNYWWU      
+PPFNNYYUU      
+   NTY         
+   NTY         
+   TTT         #   VVV         
+   ZZV         
+   WZV         
+UUWWZZFPP      
+UWWYNFFPP      
+UUYYNNFFP      
+   YTN         
+   YTN         
+   TTT         #   VVV         
+   ZZV         
+   WZV         
+UUWWZZFFP      
+UWWYNFFPP      
+UUYYNNFPP      
+   YTN         
+   YTN         
+   TTT         #   LLN         
+   LNN         
+   LNW         
+PPZLNWWUU      
+PPZZZYWWU      
+PVVVZYYUU      
+   VTY         
+   VTY         
+   TTT         #   LLN         
+   LNN         
+   LNW         
+PPPLNWWUU      
+PPYTTTWWU      
+YYYYTZZUU      
+   VTZ         
+   VZZ         
+   VVV         #   NLL         
+   NNL         
+   WNL         
+UUWWNLZPP      
+UWWYZZZPP      
+UUYYZVVVP      
+   YTV         
+   YTV         
+   TTT         #   NLL         
+   NNL         
+   WNL         
+UUWWNLPPP      
+UWWTTTYPP      
+UUZZTYYYY      
+   ZTV         
+   ZZV         
+   VVV         #   PPP         
+   VPP         
+   VZZ         
+TVVVZLLLL      
+TTTZZNNNL      
+TYYYYWWNN      
+   YWW         
+   UWU         
+   UUU         #   PPP         
+   PPV         
+   ZZV         
+LLLLZVVVT      
+LNNNZZTTT      
+NNWWYYYYT      
+   WWY         
+   UWU         
+   UUU         #   PPY         
+   PPY         
+   PYY         
+LLLLTYVVV      
+LNNNTTTZV      
+NNWWTZZZV      
+   WWZ         
+   UWU         
+   UUU         #   UUU         
+   UWU         
+   WWY         
+NNWWYYYYT      
+LNNNZZTTT      
+LLLLZVVVT      
+   ZZV         
+   PPV         
+   PPP         #   UUU         
+   UWU         
+   WWZ         
+NNWWTZZZV      
+LNNNTTTZV      
+LLLLTYVVV      
+   PYY         
+   PPY         
+   PPY         #   UUU         
+   UWU         
+   YWW         
+TYYYYWWNN      
+TTTZZNNNL      
+TVVVZLLLL      
+   VZZ         
+   VPP         
+   PPP         #   UUU         
+   UWU         
+   ZWW         
+VZZZTWWNN      
+VZTTTNNNL      
+VVVYTLLLL      
+   YYP         
+   YPP         
+   YPP         #   TTT         
+   VTY         
+   VTY         
+PVVVZYYUU      
+PPZZZYWWU      
+PPZLNWWUU      
+   LNW         
+   LNN         
+   LLN         #   TTT         
+   YTV         
+   YTV         
+UUYYZVVVP      
+UWWYZZZPP      
+UUWWNLZPP      
+   WNL         
+   NNL         
+   NLL         #   VVV         
+   VZZ         
+   VTZ         
+YYYYTZZUU      
+PPYTTTWWU      
+PPPLNWWUU      
+   LNW         
+   LNN         
+   LLN         #   VVV         
+   ZZV         
+   ZTV         
+UUZZTYYYY      
+UWWTTTYPP      
+UUWWNLPPP      
+   WNL         
+   NNL         
+   NLL         #   YPP         
+   YPP         
+   YYP         
+VVVYTLLLL      
+VZTTTNNNL      
+VZZZTWWNN      
+   ZWW         
+   UWU         
+   UUU         

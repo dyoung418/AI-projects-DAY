@@ -1,0 +1,1457 @@
+VVV            
+LLV            
+LTV            
+LTTTYI         
+LTNNYI         
+NNNYYI         
+   PYIFUU      
+   PPIFFU      
+   PPFFUU      #VVV            
+LLV            
+LTV            
+LTTTNN         
+LTNNNY         
+IIIIIY         
+   PYYFUU      
+   PPYFFU      
+   PPFFUU      #PPP            
+FPP            
+FFF            
+LFYYYY         
+LLLLYV         
+IIIIIV         
+   UUVVVT      
+   UNNTTT      
+   UUNNNT      #PPP            
+PPF            
+FFF            
+LFYYYY         
+LLLLYV         
+IIIIIV         
+   UUVVVT      
+   UNNTTT      
+   UUNNNT      #PPP            
+IPP            
+IFF            
+IVFFYL         
+IVFYYL         
+IVVVYL         
+   TYLLUU      
+   TTTNNU      
+   TNNNUU      #PPP            
+IPP            
+ILL            
+ILTVVV         
+ILTTTV         
+ILTYFV         
+   YFFFUU      
+   YYFNNU      
+   YNNNUU      #PPP            
+IPP            
+ILL            
+ILVVVT         
+ILVTTT         
+ILVYFT         
+   YFFFUU      
+   YYFNNU      
+   YNNNUU      #TTT            
+ITN            
+ITN            
+INNVVV         
+INFLLV         
+IFFFLV         
+   FLYYYY      
+   ULUYPP      
+   UUUPPP      #TTT            
+ITV            
+ITV            
+ILVVVY         
+ILLLLY         
+INNNYY         
+   NNYFUU      
+   PPPFFU      
+   PPFFUU      #UUU            
+UFU            
+FFF            
+FIIIII         
+PPYYYY         
+PPPYNT         
+   NNTVVV      
+   NTTTLV      
+   NLLLLV      #UUU            
+UNU            
+NNF            
+NFFVVV         
+NYFFTV         
+YYYYTV         
+   TTTPPP      
+   LLLLPP      
+   LIIIII      #UUU            
+UNU            
+NNF            
+NFFTTT         
+NYFFTV         
+YYYYTV         
+   VVVPPP      
+   LLLLPP      
+   LIIIII      #UUU            
+UNU            
+NNF            
+NFFTTT         
+NYFFTV         
+YYYYTV         
+   PPVVVL      
+   PPLLLL      
+   PIIIII      #IPP            
+IPP            
+ILP            
+ILTVVV         
+ILTTTV         
+LLTYFV         
+   YFFFUU      
+   YYFNNU      
+   YNNNUU      #IPP            
+IPP            
+ILP            
+ILVVVT         
+ILVTTT         
+LLVYFT         
+   YFFFUU      
+   YYFNNU      
+   YNNNUU      #ILL            
+ILV            
+ILV            
+ILVVVT         
+IPPTTT         
+PPPYFT         
+   YFFFUU      
+   YYFNNU      
+   YNNNUU      #UUU            
+UNU            
+NNL            
+NTLLLL         
+NTYYYY         
+TTTVYF         
+   VFFFPP      
+   VVVFPP      
+   IIIIIP      #UUU            
+UNU            
+NNF            
+NFFVVV         
+NYFFTV         
+YYYYTV         
+   TTTLPP      
+   LLLLPP      
+   IIIIIP      #UUU            
+UNU            
+NNF            
+NFFTTT         
+NYFFTV         
+YYYYTV         
+   VVVLPP      
+   LLLLPP      
+   IIIIIP      #PPY            
+PPY            
+PYY            
+UUYVVV         
+ULLLLV         
+UUFFLV         
+   FFNNNT      
+   FNNTTT      
+   IIIIIT      #UUU            
+UFU            
+FFF            
+FPYYYY         
+PPNYLV         
+PPNNLV         
+   NLVVVT      
+   NLLTTT      
+   IIIIIT      #UUU            
+UFU            
+FFF            
+FYYYYN         
+PPYINN         
+PPPINT         
+   INTVVV      
+   ITTTLV      
+   ILLLLV      #TTT            
+NTV            
+NTV            
+NNVVVY         
+UNUIYY         
+UUUILY         
+   ILYFPP      
+   ILFFPP      
+   ILLFFP      #TTT            
+NTV            
+NTV            
+NNVVVY         
+UNUIYY         
+UUUILY         
+   ILYFFP      
+   ILFFPP      
+   ILLFPP      #VVV            
+ZZV            
+LZV            
+LZZNNI         
+LNNNTI         
+LLTTTI         
+   PTIFUU      
+   PPIFFU      
+   PPFFUU      #TTT            
+ITN            
+ITN            
+INNVVV         
+INFLLV         
+IFFFLV         
+   FLZZPP      
+   ULUZPP      
+   UUUZZP      #UUU            
+UFU            
+FFF            
+FIIIII         
+PPTTTN         
+PPPTNN         
+   TNZVVV      
+   LNZZZV      
+   LLLLZV      #PPP            
+ZPP            
+ZZZ            
+UUZVVV         
+ULLLLV         
+UUFFLV         
+   FFNNNT      
+   FNNTTT      
+   IIIIIT      #UUU            
+UNU            
+NNX            
+NXXXFF         
+NYXFFT         
+YYYYFT         
+   LTTTPP      
+   LLLLPP      
+   IIIIIP      #PPP            
+IPP            
+ILT            
+ILTTTF         
+ILTFFF         
+ILLYFX         
+   YXXXUU      
+   YYXNNU      
+   YNNNUU      #UUU            
+UNU            
+NNZ            
+NFZZZI         
+NFFYZI         
+FFYYLI         
+   YLITPP      
+   YLITPP      
+   LLTTTP      #PPP            
+IPP            
+IYL            
+IYLLLL         
+IYYFZZ         
+IYFFFZ         
+   TFZZUU      
+   TTTNNU      
+   TNNNUU      #PPP            
+IPP            
+IYZ            
+IYZZZL         
+IYYFZL         
+IYFFFL         
+   TFLLUU      
+   TTTNNU      
+   TNNNUU      #TTT            
+ITY            
+ITY            
+IYYNLL         
+IZYNNL         
+IZZZNL         
+   ZNLFUU      
+   PPPFFU      
+   PPFFUU      #TTT            
+ITY            
+ITY            
+IYYPPL         
+IZYPPL         
+IZZZPL         
+   ZFLLUU      
+   FFFNNU      
+   FNNNUU      #PPP            
+TPP            
+TTT            
+TIIIII         
+LLLLZZ         
+LYYYYZ         
+   YFZZUU      
+   FFFNNU      
+   FNNNUU      #UUU            
+UNU            
+NNZ            
+NTZZZL         
+NTFFZL         
+TTTFFL         
+   FYLLPP      
+   YYYYPP      
+   IIIIIP      #UUU            
+UNU            
+NNL            
+NTLLLL         
+NTFFZZ         
+TTTFFZ         
+   FYZZPP      
+   YYYYPP      
+   IIIIIP      #UUU            
+UFU            
+FFF            
+FPLLLL         
+PPNNNL         
+PPZZNN         
+   ZYYYYT      
+   ZZYTTT      
+   IIIIIT      #UUU            
+UNU            
+NNL            
+NFLLLL         
+NFFPPP         
+FFZZPP         
+   ZYYYYT      
+   ZZYTTT      
+   IIIIIT      #UUU            
+UNU            
+NNX            
+NXXXFF         
+NYXFFV         
+YYYYFV         
+   VVVPPP      
+   LLLLPP      
+   LIIIII      #UUU            
+UNU            
+NNX            
+NXXXFF         
+NYXFFV         
+YYYYFV         
+   VVVLPP      
+   LLLLPP      
+   IIIIIP      #UUU            
+UNU            
+NNX            
+NXXXFF         
+NYXFFV         
+YYYYFV         
+   PPVVVL      
+   PPLLLL      
+   PIIIII      #PPP            
+IPP            
+ILL            
+ILVVVF         
+ILVFFF         
+ILVYFX         
+   YXXXUU      
+   YYXNNU      
+   YNNNUU      #IPP            
+IPP            
+ILP            
+ILVVVF         
+ILVFFF         
+LLVYFX         
+   YXXXUU      
+   YYXNNU      
+   YNNNUU      #ILL            
+ILV            
+ILV            
+ILVVVF         
+IPPFFF         
+PPPYFX         
+   YXXXUU      
+   YYXNNU      
+   YNNNUU      #UUU            
+UXU            
+XXX            
+LXYYYY         
+LLLLYN         
+IIIIIN         
+   VNNFPP      
+   VNFFPP      
+   VVVFFP      #UUU            
+UXU            
+XXX            
+LXYYYY         
+LLLLYN         
+IIIIIN         
+   VNNFFP      
+   VNFFPP      
+   VVVFPP      #UUU            
+UXU            
+XXX            
+PXLLLL         
+PPNNNL         
+PPFFNN         
+   FFYVVV      
+   FYYYYV      
+   IIIIIV      #UUU            
+UXU            
+XXX            
+PXLLLL         
+PPNFFL         
+PPNNFF         
+   NFYVVV      
+   NYYYYV      
+   IIIIIV      #UUU            
+UXU            
+XXX            
+VXNNNY         
+VNNIYY         
+VVVILY         
+   ILYFPP      
+   ILFFPP      
+   ILLFFP      #UUU            
+UXU            
+XXX            
+VXNNNY         
+VNNIYY         
+VVVILY         
+   ILYFFP      
+   ILFFPP      
+   ILLFPP      #UUU            
+UXU            
+XXX            
+VXLLLL         
+VYYYYL         
+VVVYNF         
+   NNFFPP      
+   NFFPPP      
+   NIIIII      #PPP            
+FPP            
+FFF            
+VFNNNY         
+VNNIYY         
+VVVILY         
+   ILYXUU      
+   ILXXXU      
+   ILLXUU      #PPP            
+PPF            
+FFF            
+VFNNNY         
+VNNIYY         
+VVVILY         
+   ILYXUU      
+   ILXXXU      
+   ILLXUU      #VVV            
+IYV            
+IYV            
+IYYNLL         
+IYFNNL         
+IFFFNL         
+   FNLXUU      
+   PPXXXU      
+   PPPXUU      #VVV            
+IYV            
+IYV            
+IYYFLL         
+IYFFFL         
+INNNFL         
+   NNLXUU      
+   PPXXXU      
+   PPPXUU      #PPP            
+FPP            
+FFF            
+LFYYYY         
+LLLLYN         
+IIIIIN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #PPP            
+PPF            
+FFF            
+LFYYYY         
+LLLLYN         
+IIIIIN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #IPP            
+IPP            
+IPF            
+IFFFLL         
+IFNNYL         
+NNNYYL         
+   VYLXUU      
+   VYXXXU      
+   VVVXUU      #VVV            
+VZZ            
+VNZ            
+NNZZLI         
+NLLLLI         
+NYYYYI         
+   YPIFUU      
+   PPIFFU      
+   PPFFUU      #VVV            
+ZZV            
+LZV            
+LZZFNI         
+LFFFNI         
+LLFNNI         
+   NPIUUU      
+   PPIUYU      
+   PPYYYY      #VVV            
+ZZV            
+LZV            
+LZZNNI         
+LNNNFI         
+LLFFFI         
+   FPIUUU      
+   PPIUYU      
+   PPYYYY      #UUU            
+UNU            
+NNZ            
+NFZZZI         
+NFFYZI         
+FFYYLI         
+   YLIVVV      
+   YLIPPV      
+   LLPPPV      #PPP            
+IPP            
+IVL            
+IVLLLL         
+IVVVZZ         
+IYYYYZ         
+   YFZZUU      
+   FFFNNU      
+   FNNNUU      #PPP            
+IPP            
+IVZ            
+IVZZZL         
+IVVVZL         
+IYYYYL         
+   YFLLUU      
+   FFFNNU      
+   FNNNUU      #VVV            
+INV            
+INV            
+INNUUU         
+IZNULU         
+IZZZLF         
+   ZLFFFP      
+   LLYFPP      
+   YYYYPP      #UUU            
+UFU            
+FFF            
+FIIIII         
+PPPYLL         
+PPYYLZ         
+   YLZZZV      
+   YLNNZV      
+   NNNVVV      #YUU            
+YYU            
+YUU            
+YIIIII         
+PPPNNN         
+PPNNFF         
+   FFZVVV      
+   LFZZZV      
+   LLLLZV      #YUU            
+YYU            
+YUU            
+YIIIII         
+PPPFFN         
+PPFFNN         
+   FNZVVV      
+   LNZZZV      
+   LLLLZV      #VVV            
+PPV            
+PPV            
+PIIIII         
+LLLLZZ         
+LYYYYZ         
+   YFZZUU      
+   FFFNNU      
+   FNNNUU      #UUU            
+UYU            
+LYY            
+LYVVVZ         
+LYVZZZ         
+LLVZNF         
+   NNFFPP      
+   NFFPPP      
+   NIIIII      #IPP            
+IPP            
+IPF            
+IFFFZZ         
+IFNNZV         
+NNNZZV         
+   VVVYUU      
+   LYYYYU      
+   LLLLUU      #UUU            
+UNU            
+NNZ            
+NFZZZL         
+NFFYZL         
+FFYYVL         
+   YVLLPP      
+   YVVVPP      
+   IIIIIP      #UUU            
+UNU            
+NNL            
+NFLLLL         
+NFFYZZ         
+FFYYVZ         
+   YVZZPP      
+   YVVVPP      
+   IIIIIP      #PPP            
+PPF            
+YFF            
+YYFFUU         
+YLLLLU         
+YLZZUU         
+   ZNNVVV      
+   ZZNNNV      
+   IIIIIV      #PPP            
+IPP            
+IYL            
+IYLLLL         
+IYYXZZ         
+IYXXXZ         
+   XFZZUU      
+   FFFNNU      
+   FNNNUU      #UUU            
+UNU            
+NNL            
+NFLLLL         
+NFFXZZ         
+FFXXXZ         
+   XYZZPP      
+   YYYYPP      
+   IIIIIP      #PPP            
+IPP            
+IYZ            
+IYZZZL         
+IYYXZL         
+IYXXXL         
+   XFLLUU      
+   FFFNNU      
+   FNNNUU      #UUU            
+UNU            
+NNZ            
+NFZZZL         
+NFFXZL         
+FFXXXL         
+   XYLLPP      
+   YYYYPP      
+   IIIIIP      #ILL            
+ILV            
+ILV            
+ILVVVY         
+INNNYY         
+NNTTTY         
+   TFYZZP      
+   TFFZPP      
+   FFZZPP      #PPP            
+PPZ            
+ZZZ            
+ZFYYYY         
+FFFTYV         
+FTTTNV         
+   TNVVVL      
+   NNLLLL      
+   NIIIII      #UUU            
+UYU            
+LYY            
+LYZVVV         
+LYZZZV         
+LLFFZV         
+   FFNNNT      
+   FNNTTT      
+   IIIIIT      #TTT            
+ITN            
+ITN            
+INNUUU         
+INFUYU         
+IFFFYY         
+   FYZVVV      
+   LYZZZV      
+   LLLLZV      #TTT            
+ITN            
+ITN            
+INNVVV         
+INFZZV         
+IFFFZV         
+   FZZYUU      
+   LYYYYU      
+   LLLLUU      #VVV            
+ZZV            
+LZV            
+LZZYUU         
+LYYYYU         
+LLFFUU         
+   FFNNNT      
+   FNNTTT      
+   IIIIIT      #TTT            
+ITY            
+ITY            
+IVYYFF         
+IVYFFL         
+IVVVFL         
+   UULZZP      
+   ULLZPP      
+   UUZZPP      #TTT            
+ITY            
+ITY            
+IYYPPP         
+IUYUPP         
+IUUUFF         
+   FFZVVV      
+   LFZZZV      
+   LLLLZV      #VVV            
+ZZV            
+LZV            
+LZZFPP         
+LFFFPP         
+LLFUUP         
+   UYYYYT      
+   UUYTTT      
+   IIIIIT      #PPP            
+PPZ            
+ZZZ            
+ZLLLLF         
+ULUFFF         
+UUUVFY         
+   VYYYYT      
+   VVVTTT      
+   IIIIIT      #IPP            
+IPP            
+IPX            
+IXXXFF         
+IYXFFV         
+YYYYFV         
+   UUVVVT      
+   UNNTTT      
+   UUNNNT      #UUU            
+UNU            
+NNX            
+NXXXFF         
+NYXFFV         
+YYYYFV         
+   PPVVVT      
+   PPPTTT      
+   IIIIIT      #TTT            
+NTV            
+NTV            
+NNVVVF         
+UNUFFF         
+UUUYFX         
+   YXXXPP      
+   YYXPPP      
+   YIIIII      #TTT            
+ITV            
+ITV            
+IPVVVF         
+IPPFFF         
+IPPYFX         
+   YXXXUU      
+   YYXNNU      
+   YNNNUU      #UUU            
+UXU            
+XXX            
+VXNNNF         
+VNNFFF         
+VVVYFT         
+   YYTPPP      
+   YTTTPP      
+   YIIIII      #UUU            
+UXU            
+XXX            
+VXNNNT         
+VNNTTT         
+VVVYFT         
+   YFFFPP      
+   YYFPPP      
+   YIIIII      #IPP            
+IPP            
+ITP            
+ITTTFF         
+ITYFFN         
+YYYYFN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #IPP            
+IPP            
+IPF            
+IFFTTT         
+IYFFTN         
+YYYYTN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #TTT            
+ITN            
+ITN            
+INNVVV         
+INFZZV         
+IFFFZV         
+   FZZUUU      
+   PPPUYU      
+   PPYYYY      #UUU            
+UYU            
+YYT            
+VYTTTZ         
+VYTZZZ         
+VVVZNF         
+   NNFFPP      
+   NFFPPP      
+   NIIIII      #IPP            
+IPP            
+IPF            
+IFFFZZ         
+IFNNZT         
+NNNZZT         
+   VTTTUU      
+   VYYYYU      
+   VVVYUU      #YUU            
+YYU            
+YUU            
+YPZVVV         
+PPZZZV         
+PPFFZV         
+   FFNNNT      
+   FNNTTT      
+   IIIIIT      #UUU            
+UXU            
+XXX            
+PXZVVV         
+PPZZZV         
+PPFFZV         
+   FFNNNT      
+   FNNTTT      
+   IIIIIT      #TTT            
+ITN            
+ITN            
+INNVVV         
+INFZZV         
+IFFFZV         
+   FZZXUU      
+   PPXXXU      
+   PPPXUU      #UUU            
+UXU            
+XXX            
+PXVVVF         
+PPVFFF         
+PPVLFY         
+   LYYYYT      
+   LNNTTT      
+   LLNNNT      #UUU            
+UXU            
+XXX            
+PXLLLL         
+PPLFFV         
+PPFFNV         
+   FNVVVT      
+   NNYTTT      
+   NYYYYT      #UUU            
+UXU            
+XXX            
+TXYYYY         
+TTTYLN         
+TLLLLN         
+   VNNFPP      
+   VNFFPP      
+   VVVFFP      #UUU            
+UXU            
+XXX            
+TXYYYY         
+TTTYLN         
+TLLLLN         
+   VNNFFP      
+   VNFFPP      
+   VVVFPP      #UUU            
+UXU            
+XXX            
+VXNNNY         
+VNNLLY         
+VVVLYY         
+   LFYTPP      
+   LFFTPP      
+   FFTTTP      #UUU            
+UXU            
+XXX            
+VXNNNY         
+VNNLLY         
+VVVLYY         
+   LTYFPP      
+   LTFFPP      
+   TTTFFP      #UUU            
+UXU            
+XXX            
+VXNNNY         
+VNNLLY         
+VVVLYY         
+   LTYFFP      
+   LTFFPP      
+   TTTFPP      #TTT            
+NTY            
+NTY            
+NNYYFF         
+LNYFFV         
+LLLLFV         
+   VVVXUU      
+   PPXXXU      
+   PPPXUU      #TTT            
+YTV            
+YTV            
+YYVVVL         
+YNNNFL         
+NNFFFL         
+   FLLXUU      
+   PPXXXU      
+   PPPXUU      #PPP            
+FPP            
+FFF            
+VFNNNY         
+VNNLLY         
+VVVLYY         
+   LTYXUU      
+   LTXXXU      
+   TTTXUU      #PPP            
+PPF            
+FFF            
+VFNNNY         
+VNNLLY         
+VVVLYY         
+   LTYXUU      
+   LTXXXU      
+   TTTXUU      #PPP            
+TPP            
+TTT            
+TFYYYY         
+FFFYLN         
+FLLLLN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #PPP            
+FPP            
+FFF            
+TFYYYY         
+TTTYLN         
+TLLLLN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #PPP            
+PPF            
+FFF            
+TFYYYY         
+TTTYLN         
+TLLLLN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #PPP            
+PPZ            
+ZZZ            
+ZFYYYY         
+FFFYLV         
+FLLLLV         
+   UUVVVT      
+   UNNTTT      
+   UUNNNT      #UUU            
+UFU            
+FFF            
+FYYYYZ         
+PPYZZZ         
+PPPZNT         
+   NNTVVV      
+   NTTTLV      
+   NLLLLV      #UUU            
+UNU            
+NNZ            
+NTZZZY         
+NTLLZY         
+TTTLYY         
+   LFYVVV      
+   LFFPPV      
+   FFPPPV      #TTT            
+NTV            
+NTV            
+NNVVVY         
+UNULLY         
+UUULYY         
+   LFYZZP      
+   LFFZPP      
+   FFZZPP      #VVV            
+LLV            
+LTV            
+LTTTZZ         
+LTNNZY         
+NNNZZY         
+   PYYFUU      
+   PPYFFU      
+   PPFFUU      #VVV            
+PPV            
+PPV            
+PFYYYY         
+FFFYZZ         
+FLLLLZ         
+   TLZZUU      
+   TTTNNU      
+   TNNNUU      #UUU            
+UNU            
+NNX            
+NXXXPP         
+NYXPPP         
+YYYYFF         
+   FFZVVV      
+   LFZZZV      
+   LLLLZV      #VVV            
+ZZV            
+LZV            
+LZZFPP         
+LFFFPP         
+LLFYPX         
+   YXXXUU      
+   YYXNNU      
+   YNNNUU      #UUU            
+UXU            
+XXX            
+PXZVVV         
+PPZZZV         
+PPFFZV         
+   FFYYYY      
+   FNNNYL      
+   NNLLLL      #UUU            
+UXU            
+XXX            
+PXZVVV         
+PPZZZV         
+PPFFZV         
+   FFLLLL      
+   FYNNNL      
+   YYYYNN      #UUU            
+UXU            
+XXX            
+PXLLLL         
+PPNNNL         
+PPFFNN         
+   FFZVVV      
+   FYZZZV      
+   YYYYZV      #UUU            
+UXU            
+XXX            
+PXLLLL         
+PPNFFL         
+PPNNFF         
+   NFZVVV      
+   NYZZZV      
+   YYYYZV      #UUU            
+UXU            
+XXX            
+PXZVVV         
+PPZZZV         
+PPFFZV         
+   FFLLLL      
+   FNNNYL      
+   NNYYYY      #UUU            
+UXU            
+XXX            
+VXNNNY         
+VNNLLY         
+VVVLYY         
+   LFYZZP      
+   LFFZPP      
+   FFZZPP      #LLY            
+LYY            
+LNY            
+LNYVVV         
+NNFZZV         
+NFFFZV         
+   FZZXUU      
+   PPXXXU      
+   PPPXUU      #NLL            
+NNL            
+YNL            
+YNLVVV         
+YYFZZV         
+YFFFZV         
+   FZZXUU      
+   PPXXXU      
+   PPPXUU      #VVV            
+ZZV            
+YZV            
+YZZNLL         
+YYFNNL         
+YFFFNL         
+   FNLXUU      
+   PPXXXU      
+   PPPXUU      #VVV            
+ZZV            
+YZV            
+YZZFLL         
+YYFFFL         
+YNNNFL         
+   NNLXUU      
+   PPXXXU      
+   PPPXUU      #YLL            
+YYL            
+YNL            
+YNLVVV         
+NNFZZV         
+NFFFZV         
+   FZZXUU      
+   PPXXXU      
+   PPPXUU      #PPP            
+PPZ            
+ZZZ            
+ZFYYYY         
+FFFYLN         
+FLLLLN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #UUU            
+UNU            
+NNX            
+NXXXFF         
+NYXFFT         
+YYYYFT         
+   PTTTZV      
+   PPZZZV      
+   PPZVVV      #VVV            
+VZZ            
+VZT            
+ZZTTTF         
+PPTFFF         
+PPPYFX         
+   YXXXUU      
+   YYXNNU      
+   YNNNUU      #UUU            
+UXU            
+XXX            
+LXYYYY         
+LLLLYT         
+IIIIIT         
+   VTTTPP      
+   VNNNPP      
+   VVVNNP      #UUU            
+UXU            
+XXX            
+PXYYYY         
+PPNYLV         
+PPNNLV         
+   NLVVVT      
+   NLLTTT      
+   IIIIIT      #UUU            
+UXU            
+XXX            
+TXYYYY         
+TTTYLN         
+TVVVLN         
+   VLNNPP      
+   VLLNPP      
+   IIIIIP      #UUU            
+UXU            
+XXX            
+VXYYYY         
+VNNNYT         
+VVVNNT         
+   LTTTPP      
+   LLLLPP      
+   IIIIIP      #UUU            
+UXU            
+XXX            
+VXNNNP         
+VNNIPP         
+VVVIPP         
+   ILLLLT      
+   ILYTTT      
+   IYYYYT      #UUU            
+UXU            
+XXX            
+VXNNNP         
+VNNIPP         
+VVVIPP         
+   ITYYYY      
+   ITTTYL      
+   ITLLLL      #UUU            
+UXU            
+XXX            
+VXNNNP         
+VNNIPP         
+VVVIPP         
+   ITLLLL      
+   ITTTYL      
+   ITYYYY      #UUU            
+UXU            
+XXX            
+VXNNNP         
+VNNIPP         
+VVVIPP         
+   IYYYYT      
+   ILYTTT      
+   ILLLLT      #UUU            
+UXU            
+XXX            
+VXNNNP         
+VNNLPP         
+VVVLPP         
+   LYYYYT      
+   LLYTTT      
+   IIIIIT      #UUU            
+UXU            
+XXX            
+VXLLLL         
+VYYYYL         
+VVVYNT         
+   NNTPPP      
+   NTTTPP      
+   NIIIII      #UUU            
+UXU            
+XXX            
+VXLLLL         
+VYYYYL         
+VVVYNN         
+   PPNNNT      
+   PPPTTT      
+   IIIIIT      #PPP            
+NPP            
+NNT            
+VNTTTY         
+VNTIYY         
+VVVILY         
+   ILYXUU      
+   ILXXXU      
+   ILLXUU      #TTT            
+ITV            
+ITV            
+ILVVVY         
+ILLLLY         
+INNNYY         
+   NNYXUU      
+   PPXXXU      
+   PPPXUU      #PPP            
+IPP            
+INN            
+ILNNNY         
+ILLLLY         
+IVVVYY         
+   VTYXUU      
+   VTXXXU      
+   TTTXUU      #PPP            
+IPP            
+ILT            
+ILTTTY         
+ILTNYY         
+ILLNNY         
+   VNYXUU      
+   VNXXXU      
+   VVVXUU      #LLY            
+LYY            
+LTY            
+LTYPPP         
+TTTPPN         
+IIIIIN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #TTT            
+LTY            
+LTY            
+LYYPPP         
+LLYPPN         
+IIIIIN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #TTT            
+YTL            
+YTL            
+YYLPPP         
+YLLPPN         
+IIIIIN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #YLL            
+YYL            
+YTL            
+YTLPPP         
+TTTPPN         
+IIIIIN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #TTT            
+ITY            
+ITY            
+IYYPPP         
+ILYPPN         
+ILLLLN         
+   VNNXUU      
+   VNXXXU      
+   VVVXUU      #TTT            
+ITN            
+ITN            
+IPNNLL         
+IPPNYL         
+IPPYYL         
+   VYLXUU      
+   VYXXXU      
+   VVVXUU      #IPP            
+IPP            
+ITP            
+ITTTLL         
+ITNNYL         
+NNNYYL         
+   VYLXUU      
+   VYXXXU      
+   VVVXUU      #VVV            
+ZZV            
+LZV            
+LZZNNI         
+LNNNTI         
+LLTTTI         
+   PTIUUU      
+   PPIUYU      
+   PPYYYY      #PPP            
+IPP            
+ILT            
+ILTTTZ         
+ILTZZZ         
+ILLZNN         
+   UUNNNV      
+   UYYYYV      
+   UUYVVV      #PPP            
+IPP            
+IUU            
+IUYYYY         
+IUUTYN         
+ITTTNN         
+   TNZVVV      
+   LNZZZV      
+   LLLLZV      #TTT            
+ITN            
+ITN            
+IPNNZZ         
+IPPNZV         
+IPPZZV         
+   VVVYUU      
+   LYYYYU      
+   LLLLUU      #VVV            
+ILV            
+ILV            
+ILYYYY         
+ILLTYN         
+ITTTNN         
+   TNZZPP      
+   UNUZPP      
+   UUUZZP      #YUU            
+YYU            
+YUU            
+YIIIII         
+PPTTTN         
+PPPTNN         
+   TNZVVV      
+   LNZZZV      
+   LLLLZV      #UUU            
+UYU            
+LYY            
+LYVVVZ         
+LYVZZZ         
+LLVZNT         
+   NNTPPP      
+   NTTTPP      
+   NIIIII      #UUU            
+UYU            
+YYT            
+VYTTTZ         
+VYTZZZ         
+VVVZNN         
+   PPNNNL      
+   PPLLLL      
+   PIIIII      #IPP            
+IPP            
+ITP            
+ITTTZZ         
+ITNNZV         
+NNNZZV         
+   VVVYUU      
+   LYYYYU      
+   LLLLUU      #ILL            
+ILN            
+ILN            
+ILNNZZ         
+IPPNZT         
+PPPZZT         
+   VTTTUU      
+   VYYYYU      
+   VVVYUU      #VVV            
+VYN            
+VYN            
+YYNNZZ         
+UYUNZT         
+UUUZZT         
+   LTTTPP      
+   LLLLPP      
+   IIIIIP      #VVV            
+ZZV            
+LZV            
+LZZNNY         
+LNNNYY         
+LLTTTY         
+   TUYUPP      
+   TUUUPP      
+   IIIIIP      #UUU            
+UYU            
+LYY            
+LYVVVZ         
+LYVZZZ         
+LLVZNN         
+   PPNNNT      
+   PPPTTT      
+   IIIIIT      #PPP            
+ZPP            
+ZZZ            
+UUZNNY         
+UNNNYY         
+UUTTTY         
+   TLYVVV      
+   TLLLLV      
+   IIIIIV      #UUU            
+UXU            
+XXX            
+PXLLLL         
+PPNNNL         
+PPZZNN         
+   ZYYYYT      
+   ZZYTTT      
+   IIIIIT      #TTT            
+ITY            
+ITY            
+IYYNLL         
+IZYNNL         
+IZZZNL         
+   ZNLXUU      
+   PPXXXU      
+   PPPXUU      #UUU            
+UXU            
+XXX            
+LXYYYY         
+LLLLYT         
+IIIIIT         
+   PTTTZV      
+   PPZZZV      
+   PPZVVV      #VVV            
+VZZ            
+VZT            
+ZZTTTY         
+PPTIYY         
+PPPILY         
+   ILYXUU      
+   ILXXXU      
+   ILLXUU      #UUU            
+UXU            
+XXX            
+TXYYYY         
+TTTYZZ         
+TLLLLZ         
+   VLZZPP      
+   VNNNPP      
+   VVVNNP      #PPP            
+NPP            
+NNZ            
+VNZZZY         
+VNLLZY         
+VVVLYY         
+   LTYXUU      
+   LTXXXU      
+   TTTXUU      

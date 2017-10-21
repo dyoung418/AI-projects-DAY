@@ -1,0 +1,8 @@
+   A    
+ AAAABC 
+ EEEEBC 
+ FHEBBCC
+FFHHDBC 
+ FHDDDD 
+ FHGGGG 
+    G   
